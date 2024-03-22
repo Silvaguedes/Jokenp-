@@ -76,11 +76,7 @@ p {
     button {
         padding: 15px;
         font-size: 40px;
-        cursor: pointer;
-        border: none;
-        border-radius: 10px;
-        transition: opacity 0.5s ease-in-out;
-
+      
     }
 
 
