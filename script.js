@@ -8,10 +8,8 @@ let humanScoreNumber = 0
 let machineScoreNumber = 0
 
 
-const playhuman = (humanChoice) => {
-
-
-    playTheGame(humanChoice, playMachine())
+const playHuman = (humanChoice) => {
+ playTheGame(humanChoice, playMachine())
 }
 
 const playMachine = () => {
